@@ -1,0 +1,250 @@
+{
+    "restaurants": [
+        {
+            "id": "b2d171d3-a225-4ee9-8f23-058ed691ef7c",
+            "imagePath": "restaurants/monstro-burguer.png",
+            "name": "Monstro Burguer",
+            "description": "Hambúrgueres para quem curte a madrugada.",
+            "stars": 4.3,
+            "distance": 2,
+            "categories": [
+                "Principais",
+                "Petiscos"
+            ],
+            "dishes": [
+                {
+                    "id": "772c4982-5f51-49c2-b287-3a27d08f93d0",
+                    "imagePath": "dishes/monstro-burguer/xtudao.png",
+                    "name": "X-Tudão",
+                    "description": "O X-Tudão é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 35
+                },
+                {
+                    "id": "0d968177-dfcb-4c56-a214-169969e894e5",
+                    "imagePath": "dishes/monstro-burguer/monstro_duplo.png",
+                    "name": "Monstro Duplo",
+                    "description": "O Monstro Duplo é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 40
+                },
+                {
+                    "id": "c0defe6c-c752-4303-b8cf-1cbe0ea932c7",
+                    "imagePath": "dishes/monstro-burguer/monstro_furioso.png",
+                    "name": "Monstro Furioso",
+                    "description": "O Monstro Furioso é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 38
+                },
+                {
+                    "id": "6461198e-ee59-4e8d-ade9-daf74ce49df9",
+                    "imagePath": "dishes/monstro-burguer/bacon_supremo.png",
+                    "name": "Bacon Supremo",
+                    "description": "O Bacon Supremo é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 42
+                },
+                {
+                    "id": "bdb3109b-31c9-44b5-9d34-d6d78072061a",
+                    "imagePath": "dishes/monstro-burguer/cheddar_explosivo.png",
+                    "name": "Cheddar Explosivo",
+                    "description": "O Cheddar Explosivo é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 37
+                }
+            ]
+        },
+        {
+            "id": "eba2d597-a35d-4a84-bcb1-75881330c488",
+            "imagePath": "restaurants/cabron-mexicano.png",
+            "name": "Cabrón Mexicano",
+            "description": "Autêntica comida mexicana, cheia de sabor e tradição.",
+            "stars": 4.7,
+            "distance": 3,
+            "categories": [
+                "Petiscos",
+                "Bebidas"
+            ],
+            "dishes": [
+                {
+                    "id": "ab91abf1-73d3-418b-95de-c0cd7a86e94a",
+                    "imagePath": "dishes/cabron-mexicano/taco_supremo.png",
+                    "name": "Taco Supremo",
+                    "description": "O Taco Supremo é a escolha perfeita para um momento descontraído. Pequeno no tamanho, mas gigante no sabor, essa delícia é preparada com ingredientes frescos e um toque especial que faz toda a diferença. Perfeito para petiscar entre amigos ou como uma entrada que desperta o apetite.",
+                    "price": 25
+                },
+                {
+                    "id": "b8923bea-42db-48c3-b96c-2b12ba123842",
+                    "imagePath": "dishes/cabron-mexicano/burrito_explosivo.png",
+                    "name": "Burrito Explosivo",
+                    "description": "O Burrito Explosivo é a escolha perfeita para um momento descontraído. Pequeno no tamanho, mas gigante no sabor, essa delícia é preparada com ingredientes frescos e um toque especial que faz toda a diferença. Perfeito para petiscar entre amigos ou como uma entrada que desperta o apetite.",
+                    "price": 30
+                },
+                {
+                    "id": "989215f6-e3dd-42ac-9e1e-cbd480f33a10",
+                    "imagePath": "dishes/cabron-mexicano/quesadilla_cheddar.png",
+                    "name": "Quesadilla de Cheddar",
+                    "description": "O Quesadilla de Cheddar é a escolha perfeita para um momento descontraído. Pequeno no tamanho, mas gigante no sabor, essa delícia é preparada com ingredientes frescos e um toque especial que faz toda a diferença. Perfeito para petiscar entre amigos ou como uma entrada que desperta o apetite.",
+                    "price": 22
+                },
+                {
+                    "id": "d4241056-cdd6-4798-b632-e753b0f1d7b7",
+                    "imagePath": "dishes/cabron-mexicano/enchilada_picante.png",
+                    "name": "Enchilada Picante",
+                    "description": "O Enchilada Picante é a escolha perfeita para um momento descontraído. Pequeno no tamanho, mas gigante no sabor, essa delícia é preparada com ingredientes frescos e um toque especial que faz toda a diferença. Perfeito para petiscar entre amigos ou como uma entrada que desperta o apetite.",
+                    "price": 28
+                },
+                {
+                    "id": "da27e8c7-faf9-468f-84e0-82961d4e365f",
+                    "imagePath": "dishes/cabron-mexicano/guacamole_supremo.png",
+                    "name": "Guacamole Supremo",
+                    "description": "O Guacamole Supremo é a escolha perfeita para um momento descontraído. Pequeno no tamanho, mas gigante no sabor, essa delícia é preparada com ingredientes frescos e um toque especial que faz toda a diferença. Perfeito para petiscar entre amigos ou como uma entrada que desperta o apetite.",
+                    "price": 18
+                }
+            ]
+        },
+        {
+            "id": "ddd8936a-6324-4071-a3f0-228e5971648f",
+            "imagePath": "restaurants/foodcourt-natural.png",
+            "name": "Foodcourt Natural",
+            "description": "Alimentação saudável e saborosa.",
+            "stars": 5.0,
+            "distance": 1,
+            "categories": [
+                "Principais",
+                "Bebidas"
+            ],
+            "dishes": [
+                {
+                    "id": "e551a0b1-0032-4f28-a17c-fd3cdaf7089f",
+                    "imagePath": "dishes/foodcourt-natural/salada_verde.png",
+                    "name": "Salada Verde",
+                    "description": "O Salada Verde é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 22
+                },
+                {
+                    "id": "d41596e4-9969-499e-bda6-27e0eeda4206",
+                    "imagePath": "dishes/foodcourt-natural/wrap_natural.png",
+                    "name": "Wrap Natural",
+                    "description": "O Wrap Natural é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 24
+                },
+                {
+                    "id": "fda0b33d-9543-475d-ac3c-f879d0c79b1b",
+                    "imagePath": "dishes/foodcourt-natural/suco_detox.png",
+                    "name": "Suco Detox",
+                    "description": "O Suco Detox é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 12
+                },
+                {
+                    "id": "444d4e8b-e9c6-4f52-9abf-b7ae8a43dd2e",
+                    "imagePath": "dishes/foodcourt-natural/granola_fit.png",
+                    "name": "Granola Fit",
+                    "description": "O Granola Fit é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 18
+                },
+                {
+                    "id": "c99a505b-cad9-44ec-b80b-b45c328933db",
+                    "imagePath": "dishes/foodcourt-natural/crepe_integral.png",
+                    "name": "Crepe Integral",
+                    "description": "O Crepe Integral é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 20
+                }
+            ]
+        },
+        {
+            "id": "702e5a20-938c-4aba-91e1-73103aec471e",
+            "imagePath": "restaurants/donutz.png",
+            "name": "Donutz",
+            "description": "Os melhores donuts da cidade!",
+            "stars": 4.8,
+            "distance": 4,
+            "categories": [
+                "Sobremesas",
+                "Massas"
+            ],
+            "dishes": [
+                {
+                    "id": "36fbff31-a8d7-41fb-a6d0-78936f65f7f2",
+                    "imagePath": "dishes/donutz/donut_tradicional.png",
+                    "name": "Donut Tradicional",
+                    "description": "O Donut Tradicional é a maneira perfeita de encerrar sua refeição com chave de ouro. Sua textura suave e seu sabor equilibrado garantem um momento de prazer único. Com um toque de doçura na medida certa, essa sobremesa é um verdadeiro deleite para os amantes de doces.",
+                    "price": 10
+                },
+                {
+                    "id": "5fcdfe7a-1c7b-4323-82bf-9c23da601e12",
+                    "imagePath": "dishes/donutz/donut_recheado.png",
+                    "name": "Donut Recheado",
+                    "description": "O Donut Recheado é a maneira perfeita de encerrar sua refeição com chave de ouro. Sua textura suave e seu sabor equilibrado garantem um momento de prazer único. Com um toque de doçura na medida certa, essa sobremesa é um verdadeiro deleite para os amantes de doces.",
+                    "price": 12
+                },
+                {
+                    "id": "aa238ea7-3d7e-42d2-8a26-5be8d2af9cf2",
+                    "imagePath": "dishes/donutz/donut_red_velvet.png",
+                    "name": "Donut Red Velvet",
+                    "description": "O Donut Red Velvet é a maneira perfeita de encerrar sua refeição com chave de ouro. Sua textura suave e seu sabor equilibrado garantem um momento de prazer único. Com um toque de doçura na medida certa, essa sobremesa é um verdadeiro deleite para os amantes de doces.",
+                    "price": 15
+                },
+                {
+                    "id": "f6ca19e1-e92d-43ff-87da-67e6313ac30e",
+                    "imagePath": "dishes/donutz/donut_oreo.png",
+                    "name": "Donut Oreo",
+                    "description": "O Donut Oreo é a maneira perfeita de encerrar sua refeição com chave de ouro. Sua textura suave e seu sabor equilibrado garantem um momento de prazer único. Com um toque de doçura na medida certa, essa sobremesa é um verdadeiro deleite para os amantes de doces.",
+                    "price": 14
+                },
+                {
+                    "id": "eadd6533-94d5-4221-b74b-afe48c2acd6c",
+                    "imagePath": "dishes/donutz/donut_doce_de_leite.png",
+                    "name": "Donut Doce de Leite",
+                    "description": "O Donut Doce de Leite é a maneira perfeita de encerrar sua refeição com chave de ouro. Sua textura suave e seu sabor equilibrado garantem um momento de prazer único. Com um toque de doçura na medida certa, essa sobremesa é um verdadeiro deleite para os amantes de doces.",
+                    "price": 13
+                }
+            ]
+        },
+        {
+            "id": "3be1dbe4-39d2-4388-a325-5c23eec85822",
+            "imagePath": "restaurants/panda-sushi.png",
+            "name": "Panda Sushi",
+            "description": "Sushis e pratos orientais fresquinhos.",
+            "stars": 4.9,
+            "distance": 1,
+            "categories": [
+                "Principais",
+                "Petiscos",
+                "Bebidas"
+            ],
+            "dishes": [
+                {
+                    "id": "9fd81228-a092-4ea1-b734-27171ca0272a",
+                    "imagePath": "dishes/panda-sushi/combo_sushi.png",
+                    "name": "Combo Sushi",
+                    "description": "O Combo Sushi é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 55
+                },
+                {
+                    "id": "e9c57d02-26eb-4b02-9565-749bae975827",
+                    "imagePath": "dishes/panda-sushi/yakissoba_tradicional.png",
+                    "name": "Yakissoba Tradicional",
+                    "description": "O Yakissoba Tradicional é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 38
+                },
+                {
+                    "id": "12d3b6d9-ab45-40b1-88fd-96e1c403b114",
+                    "imagePath": "dishes/panda-sushi/temaki_salmao.png",
+                    "name": "Temaki de Salmão",
+                    "description": "O Temaki de Salmão é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 25
+                },
+                {
+                    "id": "1c239ef6-c7fb-41bd-9288-a85c4a41a717",
+                    "imagePath": "dishes/panda-sushi/hot_roll.png",
+                    "name": "Hot Roll",
+                    "description": "O Hot Roll é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 30
+                },
+                {
+                    "id": "d23bce17-d3f7-4e8d-adfa-b2e95018a0ee",
+                    "imagePath": "dishes/panda-sushi/gyoza.png",
+                    "name": "Gyoza",
+                    "description": "O Gyoza é um prato pensado para satisfazer os paladares mais exigentes. Com uma combinação equilibrada de ingredientes selecionados e um tempero especial, cada garfada traz uma explosão de sabores que tornam essa refeição inesquecível. Ideal para quem busca um prato completo e delicioso.",
+                    "price": 22
+                }
+            ]
+        }
+    ]
+}
